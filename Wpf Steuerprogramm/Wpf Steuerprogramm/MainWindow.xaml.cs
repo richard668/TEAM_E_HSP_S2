@@ -88,7 +88,7 @@ namespace Wpf_Steuerprogramm
                 "\nSteigung: " + Bolt.Steigung;
         }
             
-
+        //Test
 
             //Eingabemethoden
 
