@@ -22,14 +22,14 @@
         <RadioButton x:Name="rb_MetrischFein" Content="Metrisch Fein" HorizontalAlignment="Left" Margin="288,77,0,0" VerticalAlignment="Top" GroupName="Gewindeart" Checked="MetrischFeinChecked" Unchecked="MetrischFeinUnchecked"/>
         <RadioButton x:Name="rb_Whitworth" Content="Whitworth" HorizontalAlignment="Left" Margin="288,97,0,0" VerticalAlignment="Top" GroupName="Gewindeart" Checked="WhitworthChecked" Unchecked="WhitworthUnchecked"/>
         <ComboBox x:Name="cmbBox_Metrisch" HorizontalAlignment="Left" Margin="35,69,0,0" VerticalAlignment="Top" Width="120">
-            <ComboBoxItem> M3 </ComboBoxItem>
-            <ComboBoxItem> M4 </ComboBoxItem>
-            <ComboBoxItem> M5 </ComboBoxItem>
-            <ComboBoxItem IsSelected="True"> M6 </ComboBoxItem>
-            <ComboBoxItem> M8 </ComboBoxItem>
-            <ComboBoxItem> M10 </ComboBoxItem>
-            <ComboBoxItem> M12 </ComboBoxItem>
-            <ComboBoxItem> M16 </ComboBoxItem>
+            <ComboBoxItem>M3</ComboBoxItem>
+            <ComboBoxItem>M4</ComboBoxItem>
+            <ComboBoxItem>M5</ComboBoxItem>
+            <ComboBoxItem IsSelected="True">M6</ComboBoxItem>
+            <ComboBoxItem>M8</ComboBoxItem>
+            <ComboBoxItem>M10</ComboBoxItem>
+            <ComboBoxItem>M12</ComboBoxItem>
+            <ComboBoxItem>M16</ComboBoxItem>
             <ComboBoxItem>M20</ComboBoxItem>
         </ComboBox>
         <ComboBox x:Name="cmbBox_Whitworth" HorizontalAlignment="Left" Margin="35,69,0,0" VerticalAlignment="Top" Width="120" Visibility="Hidden">
